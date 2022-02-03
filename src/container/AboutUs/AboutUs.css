@@ -24,7 +24,7 @@
   justify-content: flex-end;
   align-items: flex-end;
   flex-direction: column;
-  text-align: right;
+  text-align: center;
 }
 
 .app__aboutus-content_knife {
@@ -41,7 +41,7 @@
   justify-content: flex-start;
   align-items: flex-start;
   flex-direction: column;
-  text-align: left;
+  text-align: center;
 }
 
 .app__aboutus-content_history p,
