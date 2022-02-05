@@ -18,6 +18,7 @@
 .app__video-overlay_circle {
   width: 100px;
   height: 100px;
+  font-size: 30px;
   border-radius: 50%;
   border: 1px solid var(--color-golden);
   cursor: pointer;
